@@ -26,6 +26,7 @@ or can even contribute several other datasets to this projects through pull requ
 Maintain the code of conduct and that's it have fun 
 Every contribution will be valued here so feel free to send pull requests or commits and earn to chance be included in our upcoming projects.
 
+**THE REMAINING FILES WILL BE UPLOADED SOON AFTER TESTING**
 
 **THANK YOU**
 
