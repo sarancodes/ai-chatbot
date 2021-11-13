@@ -14,6 +14,8 @@ The user interface is desgined using javascript,html and css.It can be loaded us
 - The **bot.rive** file is the data set of the chat bot
 - The **script.js** file provides the interface for chatbot and user.
  
+# INTERFACE
+![SCREENSHOT](https://github.com/saran-codes/ai-chatbot/blob/main/sample.png)
 
 ## AI AND MACHINE LEARNING
 
