@@ -3,7 +3,7 @@ This is AI Chatbot designed using AIML and rivescript.It uses js for the user in
 
 The user interface is desgined using javascript,html and css.It can be loaded using any web browser.
 
-### This bot is implemented in this website [EDCLOUD BOT](http://edcloud.mywebcommunity.org/index.html)
+### This bot is implemented in this website [ABBY - The Chatbot](http://edcloud.mywebcommunity.org/index.html)
 
 # HOW TO RUN THE BOT
 
