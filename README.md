@@ -3,6 +3,8 @@ This is AI Chatbot designed using AIML and rivescript.It uses js for the user in
 
 The user interface is desgined using javascript,html and css.It can be loaded using any web browser.
 
+### This bot is implemented in this website [EDCLOUD BOT](http://edcloud.mywebcommunity.org/index.html)
+
 # HOW TO RUN THE BOT
 
 - To run the bot without any errors it is advisable to first host in any ftp server and then access it from your website domain.Or else you might have some problems with the java script.
