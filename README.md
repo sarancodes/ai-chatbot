@@ -1,9 +1,11 @@
 # ai-chatbot
 This is AI Chatbot designed using AIML and rivescript.It uses js for the user interface.
 
+### It's name is ABBY the chatbot. 
+
 The user interface is desgined using javascript,html and css.It can be loaded using any web browser.
 
-### This bot is implemented in this website [ABBY - The Chatbot](http://edcloud.mywebcommunity.org/index.html)
+### This bot is implemented in this website [ABBY](http://edcloud.mywebcommunity.org/index.html)
 
 # HOW TO RUN THE BOT
 
